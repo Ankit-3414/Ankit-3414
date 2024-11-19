@@ -6,7 +6,7 @@
 Ankit-3414/Ankit-3414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-For Rijul - RV/TWN5C2zpkqJa2Ju+dDQ== 
+For Rijul - (RV/TWN5C2zpkqJa2Ju+dDQ==) 
 [Related to the things beside:
 Mode of enc---- QPQ(14)
 Padding----DYQG5DORRWBU(14)
